@@ -1,0 +1,10 @@
+# Comando de configuracion de usuario
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+
+# Inicializar el repositorio de git local
+git init
+
+# Añadir archivos
+git add .
+git add calculadora.py
