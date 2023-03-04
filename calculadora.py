@@ -7,3 +7,12 @@ def suma(numero1,numero2):
 
 resultado = suma(num1,num2)
 print('El resultado es: ', resultado)
+
+def resta(numero1,numero2):
+    total = numero1 - numero2
+    return total
+
+resul = resta(num1,num2)
+print('El resultado es: ', resul)
+
+print('Prueba de fusion de ramas')
